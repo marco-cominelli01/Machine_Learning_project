@@ -1,4 +1,4 @@
-# MACHINE LEARNING project: CLUSTERING, CLASSIFICATION, REGRESSION on codone usage frequency datasets
+# MACHINE LEARNING project: CLUSTERING, CLASSIFICATION, REGRESSION on codon usage frequency datasets
 
 
 ## Background
