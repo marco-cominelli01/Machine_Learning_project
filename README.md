@@ -24,7 +24,7 @@ classification performance by incorporating the predicted values.
 
 
 ## How to Use This Repository
-If you're interested in running the analysis yourself, please see the [Homework_Cominelli_Sasso.ipynb](Homework_Cominelli_Sasso.ipynb) script.
+If you're interested in running the analysis yourself, please see the [Homework_Cominelli_Sasso.ipynb](Homework_Cominelli_Sasso.ipynb) jupyter notebook.
 
 
 ## Contact
